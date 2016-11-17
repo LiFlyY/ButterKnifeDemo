@@ -15,7 +15,7 @@ public class DAta implements IData {
 
     @Override
     public void getUrl(String url) {
-        String url1 = url ;//得到对应的url
+        String url1 = url ;//得到对应的urly'gt];,p[ftyk,ot0g0f0iy0t9f0-0
         String data = null;//获取到的data
         iPresenter.getData(data);
     }
